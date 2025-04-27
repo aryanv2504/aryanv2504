@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryanv2504
 - 👀 I’m interested in coding
-- 🌱 Aspirinfg ML engineer and web developer
+- 🌱 Aspiring ML engineer and web developer
 
 
 <!---
